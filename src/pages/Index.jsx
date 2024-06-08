@@ -22,9 +22,15 @@ export function Index() {
                   <span className="fs-5">Holidaze</span>
                 </Card.Title>
                 <Card.Text className="truncate-text mt-3">
-                  <span className="fs-6">Description</span>
+                  <span className="fs-6">A booking website that allows users to book a venue as well as create a venue</span>
                 </Card.Text>
                 <div className="d-block mt-auto">
+                  <Link to="https://github.com/KityLinn/Linn-Kristine-Exam-2" className="nav-link">
+                    Github link
+                  </Link>
+                  <Link to="https://soft-daffodil-3e238f.netlify.app" className="nav-link">
+                    Live website
+                  </Link>
                 </div>
               </Card.Body>
             </Card>
@@ -42,9 +48,15 @@ export function Index() {
                   <span className="fs-5">Me-Bay</span>
                 </Card.Title>
                 <Card.Text className="truncate-text mt-3">
-                  <span className="fs-6">Description</span>
+                  <span className="fs-6">A fictional online shop that lets users browse various products as well as create their own product listings and make bids</span>
                 </Card.Text>
                 <div className="d-block mt-auto">
+                <Link to="https://github.com/KityLinn/Auction-website" className="nav-link">
+                    Github link
+                  </Link>
+                  <Link to="https://kitylinn.github.io/Auction-website" className="nav-link">
+                    Live website
+                  </Link>
                 </div>
               </Card.Body>
             </Card>
@@ -62,9 +74,15 @@ export function Index() {
                   <span className="fs-5">Online shop</span>
                 </Card.Title>
                 <Card.Text className="truncate-text mt-3">
-                  <span className="fs-6">Description</span>
+                  <span className="fs-6">An online shop that lets viewers browse a limited selection of products, ad them to their cart and simulate checking them out</span>
                 </Card.Text>
                 <div className="d-block mt-auto">
+                <Link to="https://github.com/KityLinn/fameworks-ca" className="nav-link">
+                    Github link
+                  </Link>
+                  <Link to="https://fascinating-dolphin-15c669.netlify.app" className="nav-link">
+                    Live website
+                  </Link>
                 </div>
               </Card.Body>
             </Card>
